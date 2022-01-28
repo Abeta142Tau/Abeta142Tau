@@ -35,6 +35,4 @@ Babel | CSS | Express | Git | HTML | JavaScript | Linux | MySQL | NodeJS | Postg
 
 <br>
 
---- 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeta142tau&show_icons=true&locale=en" alt="abeta142tau" /></p>
