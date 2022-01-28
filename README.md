@@ -12,7 +12,7 @@
 - 💪🏼 Metas futuras: Seguir aprendiendo nuevas tecnologías y lenguajes, así como poder insertarme a un equipo y colaborar en proyectos desafiantes.
 - ⚡ Me encanta viajar, conocer nuevas culturas, personas, respirsar el aire puro y la tranquilidad de entronos naturales, así como la agitación y euforia de las ciudades.
 - 💬 Puedes preguntarme sobre: **JavaScript, React, Redux, Node, Express, PostgreSQL**
-- ⭐️ &nbsp; &nbsp; *[Mi CV!!!](https://drive.google.com/file/d/1FXr3hTc6fBJNfKwPaEDF6pXAROVDjdFQ/view?usp=sharing)*
+- ⭐️ &nbsp; &nbsp; *[Mi CV!!!](https://drive.google.com/file/d/1RXXOvzdmBuEDR7ry-O2bi39lfTt-7n--/view?usp=sharing)*
 
 
 
