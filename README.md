@@ -4,7 +4,7 @@
 
 
 
-- 📚 Estoy aprendiendo todo lo relacionado con tecnologías Back-end y Frontend.
+- 💻 Actualmente Ingeniero en CiberSeguridad en un área de Observabilidad
 - 💖 Me encantan los desafíos y con ello poder aportar valor trabajando tanto en equipo como individualmente.
 - 💪🏼 Metas futuras: Seguir aprendiendo nuevas tecnologías y lenguajes, así como poder insertarme a un equipo y colaborar en proyectos desafiantes.
 - ⚡ Me encanta viajar, conocer nuevas culturas, personas, respirsar el aire puro y la tranquilidad de entronos naturales, así como la agitación y euforia de las ciudades.
