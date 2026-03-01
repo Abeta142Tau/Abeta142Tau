@@ -8,7 +8,7 @@
 - 💖 Me encantan los desafíos y con ello poder aportar valor trabajando tanto en equipo como individualmente.
 - 💪🏼 Metas futuras: Seguir aprendiendo nuevas tecnologías y lenguajes, así como poder insertarme a un equipo y colaborar en proyectos desafiantes.
 - ⚡ Me encanta viajar, conocer nuevas culturas, personas, respirsar el aire puro y la tranquilidad de entronos naturales, así como la agitación y euforia de las ciudades.
-- 💬 Puedes preguntarme sobre: **JavaScript, React, Redux, Node, Express, PostgreSQL**
+- 💬 Puedes preguntarme sobre: **JavaScript, React, Redux, Node, Express, PostgreSQL, Golang, Rust, ElasticSearch, MySQL, AWS, GCP**
 
 
 
